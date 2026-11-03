@@ -159,7 +159,7 @@ poker-player-analytics/
 
 ```bash
 # Clone repository
-git clone https://github.com/raviteja-battagani/poker-player-analytics.git
+git clone https://github.com/Akshay-Tanpure/poker-player-analytics.git
 
 # Install dependencies
 pip install pandas numpy matplotlib
@@ -179,16 +179,6 @@ Dataset from [The Transparency Project](https://thetransparencyproject.org/) by 
 
 Citation:
 Tom, M. A., Edson, T. C., Louderback, E. R., Nelson, S. E., Amichia, K. A., & LaPlante, D. A. (2022). Second Session at the Virtual Poker Table: A Contemporary Study of Actual Online Poker Activity. Journal of Gambling Studies. https://doi.org/10.1007/s10899-022-10147-1
-
----
-
-## Author
-
-Ravi Teja Battagani
-- MS Computer Science, Southern Illinois University Carbondale
-- 3+ years Trading Operations at Entain India
-- LinkedIn: linkedin.com/in/ravitejabattagani
-- Email: teja.ravi243@gmail.com
 
 ---
 
