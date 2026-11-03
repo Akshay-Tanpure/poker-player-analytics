@@ -1,0 +1,6 @@
+PayMethCat,TotalAttempts,SuccessfulWithdrawals,ReversedWithdrawals,TotalAmount,UniquePlayers,ReversalRate,Type
+Bank Transfer,16750,8796,7954,5871423.89585,1074,0.47486567164179105,Withdrawal
+EEA debit/credit card,4528,2353,2175,1429365.14775,360,0.4803445229681979,Withdrawal
+Prepaid Cards,18,6,12,5171.7756500000005,5,0.6666666666666666,Withdrawal
+Voucher,72,53,19,7913.32894,22,0.2638888888888889,Withdrawal
+eWallet,10939,5974,4965,2496698.95478,627,0.4538806106591096,Withdrawal
