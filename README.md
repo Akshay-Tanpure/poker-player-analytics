@@ -12,7 +12,7 @@ Fraud detection | Player profitability | Behavioral segmentation | Financial pat
 
 Analyzed 6 years (2015-2021) of real online poker player data to uncover behavioral patterns, identify fraud signals, and deliver actionable business insights.
 
-**Dataset:** [The Transparency Project](https://thetransparencyproject.org/) - Harvard Medical School / Entain plc
+**Dataset:** [The Transparency Project](http://www.thetransparencyproject.org/) - Harvard Medical School / Entain plc
 - 5,028 players
 - 51,763 cash game records
 - 82,831 tournament records
@@ -175,7 +175,7 @@ python scripts/player_profiling.py
 
 ## Data Source
 
-Dataset from [The Transparency Project](https://thetransparencyproject.org/) by Division on Addiction, Cambridge Health Alliance (Harvard Medical School), sponsored by Entain plc.
+Dataset from [The Transparency Project](http://www.thetransparencyproject.org/) by Division on Addiction, Cambridge Health Alliance (Harvard Medical School), sponsored by Entain plc.
 
 Citation:
 Tom, M. A., Edson, T. C., Louderback, E. R., Nelson, S. E., Amichia, K. A., & LaPlante, D. A. (2022). Second Session at the Virtual Poker Table: A Contemporary Study of Actual Online Poker Activity. Journal of Gambling Studies. https://doi.org/10.1007/s10899-022-10147-1
